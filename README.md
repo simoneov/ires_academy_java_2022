@@ -3,7 +3,9 @@
 
 snndndn
 
+<<<<<<< HEAD
 sdsd
-sdsd
-sdsd
-sdsd
+
+=======
+#ciao
+>>>>>>> 8446b18 (redamod)
