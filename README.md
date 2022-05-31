@@ -3,7 +3,11 @@
 
 snndndn
 
+<<<<<<< HEAD
+
+=======
 sdsd
 sdsd
 sdsd
 sdsd
+>>>>>>> master
